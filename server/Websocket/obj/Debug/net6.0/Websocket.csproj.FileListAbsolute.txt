@@ -1,0 +1,15 @@
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\bin\Debug\net6.0\Websocket.exe
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\bin\Debug\net6.0\Websocket.deps.json
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\bin\Debug\net6.0\Websocket.runtimeconfig.json
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\bin\Debug\net6.0\Websocket.dll
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\bin\Debug\net6.0\Websocket.pdb
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\obj\Debug\net6.0\Websocket.csproj.AssemblyReference.cache
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\obj\Debug\net6.0\Websocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\obj\Debug\net6.0\Websocket.AssemblyInfoInputs.cache
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\obj\Debug\net6.0\Websocket.AssemblyInfo.cs
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\obj\Debug\net6.0\Websocket.csproj.CoreCompileInputs.cache
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\obj\Debug\net6.0\Websocket.dll
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\obj\Debug\net6.0\refint\Websocket.dll
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\obj\Debug\net6.0\Websocket.pdb
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\obj\Debug\net6.0\Websocket.genruntimeconfig.cache
+C:\Code\Capstone\ServerSocket\Websocket\Websocket\obj\Debug\net6.0\ref\Websocket.dll
