@@ -1,8 +1,8 @@
 # websocket-test
 
 ## Client
-yarn
-yarn dev
+- yarn
+- yarn dev
 
 ## Server
 Open source in Visual Studio and run 
